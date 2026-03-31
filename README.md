@@ -1,9 +1,9 @@
 # Claude Senior Engineer Skills
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/senior-engineer-skills?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ramzi-bouzaiene/senior-engineer-skills?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/ramzi-bouzaiene/senior-engineer-skills?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/ramzi-bouzaiene/senior-engineer-skills?style=for-the-badge)
+![License](https://img.shields.io/github/license/ramzi-bouzaiene/senior-engineer-skills?style=for-the-badge)
 
 ![AI](https://img.shields.io/badge/AI-LLM-blue?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-Skills-purple?style=for-the-badge)
