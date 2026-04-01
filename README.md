@@ -1,8 +1,14 @@
 # Claude Senior Engineer Skills
 
+![Stars](https://img.shields.io/github/stars/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
+![Anthropic Ecosystem](https://img.shields.io/badge/Anthropic-Ecosystem-ff6f00?style=for-the-badge)
+![License](https://img.shields.io/github/license/ramzi-bouzaiene/claude-senior-engineer-skills?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Format-Markdown-black?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow-Senior%20Engineer-green?style=for-the-badge)
+
 > **From Bug → Clean → Scalable → Production**
 
-A curated collection of 30 Claude-style skills that mirror how senior engineers *actually* think about code — not just writing it, but understanding, debugging, fixing, refactoring, optimizing, hardening, and reviewing it.
+A curated collection of 30 Claude-style skills that mirror how senior engineers *actually* think about code, not just writing it, but understanding, debugging, fixing, refactoring, optimizing, hardening, and reviewing it.
 
 These skills are designed to be used with [Claude Code](https://claude.ai/code) or any Claude-powered AI workflow. Each skill is a precise, opinionated instruction set that transforms Claude into a domain-specific expert for a given engineering task.
 
@@ -12,7 +18,7 @@ These skills are designed to be used with [Claude Code](https://claude.ai/code) 
 
 Most AI coding prompts are shallow. They say "fix this bug" or "refactor this function" without the depth a senior engineer brings to the table.
 
-This repository encodes the **mental models, constraints, and judgment** of a seasoned engineer into reusable, composable skill files. The result: AI assistance that doesn't just produce code — it produces *correct*, *safe*, *maintainable* code backed by real engineering thinking.
+This repository encodes the **mental models, constraints, and judgment** of a seasoned engineer into reusable, composable skill files. The result: AI assistance that doesn't just produce code, it produces *correct*, *safe*, *maintainable* code backed by real engineering thinking.
 
 ---
 
